@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "648314311661",
+    "project_id": "croyez-f4c0c",
+    "storage_bucket": "croyez-f4c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648314311661:android:f3095b3d4b8db381c0cde4",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648314311661-2pferda8qco8qahl9d8trpbqvdnq0vd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "8a64cfc7c53b49e54d2296bc26b32de773e0d418"
+          }
+        },
+        {
+          "client_id": "648314311661-mde8ouft9v9ujtugoujg9q7tqtfpnh3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9us_qwaHNyvC2v7pb8BV6ygD6oyHmdDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648314311661-mde8ouft9v9ujtugoujg9q7tqtfpnh3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
