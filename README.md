@@ -14,21 +14,21 @@ Complex UI done simply State management Firebase, setState, lifting state up via
 
 A few resources to get you started if this is your first Flutter project:
 
-## HOME PAGE
+# HOME PAGE
 ![WhatsApp Image 2022-02-09 at 5 50 21 PM (1)](https://user-images.githubusercontent.com/66225746/153200027-77aad2d1-18c4-4e5b-9c9c-1581d54a0b26.jpeg)
 ![1](https://user-images.githubusercontent.com/66225746/153200444-887c28bd-99f1-4e33-8fa6-e63ce932e1ba.jpeg)
 
 
 
-### FEEDS SCREEN
+# FEEDS SCREEN
 ![feed](https://user-images.githubusercontent.com/66225746/153200622-566a60c7-511e-42d6-8b5b-0e4da4b85840.jpeg)
 
 
 
-### SEARCH SCREEN
+# SEARCH SCREEN
 ![search1](https://user-images.githubusercontent.com/66225746/153200766-7056b680-c4a6-4587-be3c-e12513f08360.jpeg)
 
-#### CAET SCREEN
+# CAET SCREEN
 ![cart](https://user-images.githubusercontent.com/66225746/153201420-30e463b4-15a4-4689-8dcf-8f5444a729b3.jpeg)
 
 
